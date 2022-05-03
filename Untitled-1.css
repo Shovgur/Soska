@@ -1,0 +1,8 @@
+button:hover{
+background-color: pink;
+}
+button{
+    color: black;
+    height: 100px;
+    font-weight: 1000;
+}
